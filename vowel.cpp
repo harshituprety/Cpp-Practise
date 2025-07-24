@@ -1,3 +1,4 @@
+// Check if the character is a vowel
 #include <iostream>
 using namespace std;
 
